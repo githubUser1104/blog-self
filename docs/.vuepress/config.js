@@ -45,7 +45,7 @@ if (isSystemMaintain) {
  */
 module.exports = {
   base: '/blog-self/',
-  title: "Blog-githubUser1104",
+  title: "zBlog",
   description: "",
   port,
   themeConfig: {

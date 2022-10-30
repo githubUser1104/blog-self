@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: githubUser1104
+heroText: zBlog
 tagline: 个人博客
 actionText: 开始阅读 →
 actionLink: /work/0-博客开发
@@ -11,5 +11,5 @@ features:
   details: 思维、WEB、AI...
 - title: 作品demos
   details: 软件工具...
-footer: MIT Licensed | Copyright © 2020-present githubUser1104
+footer: MIT Licensed | Copyright © 2022-present githubUser1104
 ---
